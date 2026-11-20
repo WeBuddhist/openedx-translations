@@ -94,5 +94,10 @@
   "category.header.wishlist": "འདོད་ཐོ།",
   "category.header.dashboard.label": "ངའི་སློབ་ཚན་ཁག",
   "category.header.discoverNew": "སློབ་ཚན་རྣམས་སྔོགས།",
-  "category.header.explore-courses": "སློབ་ཚན་རྣམས་སྔོགས།"
+  "category.header.explore-courses": "སློབ་ཚན་རྣམས་སྔོགས།",
+  "category.catalog.home-page.partner-carousel.title": "སློབ་གླིང་ཁག།",
+  "category.catalog.home-page.course-categories.title": "སློབ་ཚན་གྱི་སྡེ་ཚན།",
+  "category.catalog.home-page.course-categories.tablist-label": "སློབ་ཚན་གྱི་སྡེ་ཚན།",
+  "category.catalog.home-page.course-categories.error-title": "སློབ་ཚན་གྱི་སྡེ་ཚན་ཁག་མངོན་འཆར་བྱེད་མ་ཐུབ།",
+  "category.catalog.home-page.course-categories.error-message": "རྗེས་སུ་བསྐྱར་དུ་ཚོད་ལྟ་གནང་རོགས།"
 }

@@ -7,8 +7,8 @@
   "category.catalog.search-results": "Hasil pencarian untuk \"{query}\"",
   "category.catalog.no-search-results": "Kami tidak dapat menemukan hasil untuk \"{query}\"",
   "category.catalog.explore-courses": "Explore courses",
-  "category.catalog.filter.organizations": "Organizations",
-  "category.catalog.filter.languages": "Languages",
+  "category.catalog.filter.organizations": "Organisasi",
+  "category.catalog.filter.languages": "Bahasa",
   "category.catalog.filter.course-types": "Jenis Kursus",
   "catalog.course-about.view-about-page-in-studio": "Lihat Tentang Halaman di Studio",
   "category.header.help.label": "Help",
@@ -32,7 +32,7 @@
   "catalog.course-about.sidebar-details.classes-start": "Kelas Dimulai",
   "catalog.course-about.sidebar-details.classes-end": "Kelas Berakhir",
   "catalog.course-about.sidebar-details.estimated-effort": "Perkiraan Usaha",
-  "catalog.course-about.sidebar-details.price": "Price",
+  "catalog.course-about.sidebar-details.price": "Harga",
   "catalog.course-about.sidebar-details.requirements": "Requirements",
   "catalog.course-about.sidebar-details.prerequisites": "Prasyarat",
   "catalog.course-about.sidebar-details.prerequisites-completion": "Anda harus berhasil menyelesaikan {prerequisite} sebelum Anda memulai kursus ini.",
@@ -94,5 +94,10 @@
   "category.header.wishlist": "Daftar keinginan",
   "category.header.dashboard.label": "Kursus saya",
   "category.header.discoverNew": "Jelajahi kursus",
-  "category.header.explore-courses": "Jelajahi kursus"
+  "category.header.explore-courses": "Jelajahi kursus",
+  "category.catalog.home-page.partner-carousel.title": "Kampus",
+  "category.catalog.home-page.course-categories.title": "Kategori kursus",
+  "category.catalog.home-page.course-categories.tablist-label": "Kategori kursus",
+  "category.catalog.home-page.course-categories.error-title": "Tidak dapat memuat kategori kursus",
+  "category.catalog.home-page.course-categories.error-message": "Silakan coba lagi nanti."
 }

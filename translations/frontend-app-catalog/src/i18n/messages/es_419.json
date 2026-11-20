@@ -94,5 +94,10 @@
   "category.header.wishlist": "Lista de deseos",
   "category.header.dashboard.label": "Mis cursos",
   "category.header.discoverNew": "Explorar cursos",
-  "category.header.explore-courses": "Explorar cursos"
+  "category.header.explore-courses": "Explorar cursos",
+  "category.catalog.home-page.partner-carousel.title": "Campus",
+  "category.catalog.home-page.course-categories.title": "Categorías de cursos",
+  "category.catalog.home-page.course-categories.tablist-label": "Categorías de cursos",
+  "category.catalog.home-page.course-categories.error-title": "No se pueden cargar las categorías de cursos",
+  "category.catalog.home-page.course-categories.error-message": "Por favor, inténtelo de nuevo más tarde."
 }

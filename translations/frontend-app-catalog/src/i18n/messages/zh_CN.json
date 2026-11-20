@@ -94,5 +94,10 @@
   "category.header.wishlist": "心愿单",
   "category.header.dashboard.label": "我的课程",
   "category.header.discoverNew": "探索课程",
-  "category.header.explore-courses": "探索课程"
+  "category.header.explore-courses": "探索课程",
+  "category.catalog.home-page.partner-carousel.title": "校区",
+  "category.catalog.home-page.course-categories.title": "课程分类",
+  "category.catalog.home-page.course-categories.tablist-label": "课程分类",
+  "category.catalog.home-page.course-categories.error-title": "无法加载课程分类",
+  "category.catalog.home-page.course-categories.error-message": "请稍后再试。"
 }

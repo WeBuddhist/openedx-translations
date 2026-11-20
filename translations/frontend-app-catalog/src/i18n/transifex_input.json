@@ -94,5 +94,10 @@
   "category.header.wishlist": "Wishlist",
   "category.header.dashboard.label": "My Courses",
   "category.header.discoverNew": "Explore Courses",
-  "category.header.explore-courses": "Explore Courses"
+  "category.header.explore-courses": "Explore Courses",
+  "category.catalog.home-page.partner-carousel.title": "Campuses",
+  "category.catalog.home-page.course-categories.title": "Course Categories",
+  "category.catalog.home-page.course-categories.tablist-label": "Course categories",
+  "category.catalog.home-page.course-categories.error-title": "Unable to load course categories",
+  "category.catalog.home-page.course-categories.error-message": "Please try again later."
 }
