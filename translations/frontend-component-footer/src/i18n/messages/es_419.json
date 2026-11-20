@@ -41,5 +41,7 @@
   "footer.logo.hoverText": "Ir a la página principal",
   "footer.colophon.about": "Sobre nosotros",
   "footer.colophon.contact": "Contáctanos",
-  "footer.colophon.privacy": "Política de privacidad"
+  "footer.colophon.privacy": "Política de privacidad",
+  "footer.learn.campuses": "Campus",
+  "footer.learn.startCampus": "Crear un campus"
 }
