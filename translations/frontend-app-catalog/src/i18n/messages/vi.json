@@ -94,5 +94,10 @@
   "category.header.wishlist": "Danh sách mong muốn",
   "category.header.dashboard.label": "Các khóa học của tôi",
   "category.header.discoverNew": "Khám phá các khóa học",
-  "category.header.explore-courses": "Khám phá các khóa học"
+  "category.header.explore-courses": "Khám phá các khóa học",
+  "category.catalog.home-page.partner-carousel.title": "Cơ sở",
+  "category.catalog.home-page.course-categories.title": "Danh mục khóa học",
+  "category.catalog.home-page.course-categories.tablist-label": "Danh mục khóa học",
+  "category.catalog.home-page.course-categories.error-title": "Không thể tải danh mục khóa học",
+  "category.catalog.home-page.course-categories.error-message": "Vui lòng thử lại sau."
 }
